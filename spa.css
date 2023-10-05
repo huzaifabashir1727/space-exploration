@@ -1,0 +1,29 @@
+body{
+    font-family: 'Orbitron', sans-serif;
+    text-align: center;
+    color: #364F7E;
+    margin: 0px;
+}
+.btn{
+    font-family: 'Orbitron', sans-serif;
+    background: white;
+    border: 1px solid white;
+    padding: 5px 10px;
+    font-size: 20px;
+    color: #364F7E;
+    font-weight: 500;
+}
+.un{
+    border-bottom: 4px solid white;
+}
+#sp{
+    width: 200px;
+}
+#hero{
+    background-image: url("https://media.giphy.com/media/iicDrNGWxHmDrIni6j/giphy.gif");
+    background-size:cover;
+    padding-bottom: 40px;
+}
+.shadow{
+    text-shadow: 0px 0px 4px black;
+}
